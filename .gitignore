@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# User defined
+code/uitwerking_AAI/
+code/deeplearning/
+code/neural-networks-and-deep-learning-master/
+
+code/*.ipynb
+
+backprop_example_adder.txt
+output_training_adder.txt
