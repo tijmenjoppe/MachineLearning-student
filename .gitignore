@@ -138,3 +138,6 @@ code/*.ipynb
 
 backprop_example_adder.txt
 output_training_adder.txt
+
+code/DeepLearningPython35-master/
+notebook/Les_1_Workshop_neurale_netwerken_MNIST_Thijs_student.ipynb
