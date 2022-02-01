@@ -130,6 +130,7 @@ dmypy.json
 
 
 # User defined
+code/.idea
 code/uitwerking_AAI/
 code/deeplearning/
 code/neural-networks-and-deep-learning-master/
@@ -140,6 +141,9 @@ backprop_example_adder.txt
 output_training_adder.txt
 
 code/DeepLearningPython35-master/
+
+notebook/handson-ml2-master/
+notebook/casper/
 notebook/Les_1_Workshop_neurale_netwerken_MNIST_Thijs_student.ipynb
 notebook/Les_6_Gradient_descent.ipynb
 notebook/Les_9_Workshop_neurale_netwerken_met_TensorFlow_en_Keras_Casper.ipynb
