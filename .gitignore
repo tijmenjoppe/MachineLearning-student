@@ -131,22 +131,28 @@ dmypy.json
 
 # User defined
 code/.idea
-code/uitwerking_AAI/
 code/deeplearning/
+code/DeepLearningPython35-master/
 code/neural-networks-and-deep-learning-master/
+code/uitwerking/
+code/uitwerking_casper_thijs/
+notebook/handson-ml2-master/
+notebook/casper/
+reader/
 
 code/*.ipynb
+notebook/*.html
 
 backprop_example_adder.txt
 output_training_adder.txt
 
-code/DeepLearningPython35-master/
-
-notebook/handson-ml2-master/
-notebook/casper/
 notebook/Les_1_Workshop_neurale_netwerken_MNIST_Thijs_student.ipynb
 notebook/Les_6_Gradient_descent.ipynb
 notebook/Les_9_Workshop_neurale_netwerken_met_TensorFlow_en_Keras_Casper.ipynb
 notebook/Les_9_Workshop_neurale_netwerken_met_TensorFlow_en_Keras.ipynb
 notebook/Les_6_Gradient_descent_Casper.ipynb
+notebook/Les_10_Convolutionele_neurale_netwerken_voorbeelden.ipynb
 notebook/P5 - CNN.ipynb
+notebook/Les_9_Keras_Fashion_MNIST_I.ipynb
+notebook/Les_9_Keras_Fashion_MNIST_II.ipynb
+notebook/Les_9_Keras_Fashion_MNIST_III.ipynb
